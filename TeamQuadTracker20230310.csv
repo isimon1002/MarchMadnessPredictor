@@ -1,0 +1,364 @@
+Team,Conf,NET,Q_SCORE,Q1_W,Q1_L,Q2_W,Q2_L,Q3_W,Q3_L,Q4_W,Q4_L
+Abilene Christian,wac,206,-1.076923077,0,4,0,3,4,9,5,1
+Air Force,mwc,149,-0.59375,0,7,2,4,3,3,9,4
+Akron,mac,101,0.3,0,4,1,3,6,3,13,0
+Alabama,sec,2,2.225806452,9,5,7,0,7,0,3,0
+Alabama A&M,swac,315,-1.482758621,0,2,0,1,1,4,11,10
+Alabama State,swac,346,-2.1,0,4,0,3,0,4,7,12
+Albany (NY),america-east,342,-2.206896552,0,3,0,3,1,6,5,11
+Alcorn State,swac,246,-0.387096774,0,3,1,3,2,3,15,4
+American,patriot,262,-1.125,0,0,0,1,4,1,13,13
+App State,sun-belt,197,-1,0,0,1,5,2,8,10,3
+Arizona,pac-12,11,1.78125,8,2,6,4,5,0,7,0
+Arizona State,pac-12,60,0.939393939,5,5,4,5,5,0,8,1
+Arkansas,sec,20,1.0625,4,9,4,2,10,1,2,0
+Arkansas State,sun-belt,283,-1.666666667,0,0,0,3,1,13,9,4
+Ark-Pine Bluff,swac,332,-2.148148148,0,5,0,1,0,3,6,12
+Army,patriot,248,-1.290322581,0,0,0,2,1,4,14,10
+Auburn,sec,32,1.0625,3,10,6,1,8,1,3,0
+Austin Peay,atlantic-sun,325,-2.142857143,0,3,0,2,1,8,5,9
+Ball State,mac,150,-0.266666667,0,1,2,5,2,3,14,3
+Baylor,big-12,14,1.65625,11,10,4,0,0,0,7,0
+Bellarmine,atlantic-sun,257,-0.966666667,0,6,0,2,3,6,9,4
+Belmont,mvc,116,0.129032258,1,1,1,4,7,5,11,1
+Bethune-Cookman,swac,348,-1.933333333,0,3,0,0,0,3,10,14
+Binghamton,america-east,298,-1.413793103,0,1,0,5,2,5,9,7
+Boise State,mwc,26,1.35483871,3,4,9,2,6,2,5,0
+Boston College,acc,168,-0.151515152,1,7,3,4,6,3,6,3
+Boston University,patriot,259,-1.35483871,0,1,0,2,0,5,14,9
+Bowling Green,mac,284,-1.75862069,0,1,0,3,2,9,7,7
+Bradley,mvc,72,0.696969697,0,5,4,2,6,2,14,0
+Brown,ivy,182,-0.444444444,0,3,0,4,4,5,10,1
+Bryant,america-east,183,-0.642857143,0,2,1,3,2,3,12,5
+Bucknell,patriot,293,-1.903225806,0,1,0,1,0,5,11,13
+Buffalo,mac,191,-0.8,0,4,0,5,4,5,9,3
+Butler,big-east,133,0.03125,2,12,3,4,2,1,7,1
+BYU,wcc,85,0.0625,1,7,1,4,8,3,7,1
+Cal Poly,big-west,307,-2.096774194,0,0,0,9,2,9,4,7
+California,pac-12,313,-1.78125,0,9,1,10,1,6,1,4
+California Baptist,wac,169,-0.741935484,0,2,1,4,6,4,8,6
+Campbell,big-south,234,-1.28125,0,1,0,0,5,9,9,8
+Canisius,maac,261,-1.827586207,0,2,0,3,1,5,8,10
+Central Arkansas,atlantic-sun,330,-1.9,0,4,0,2,2,5,6,11
+Central Conn St,northeast,343,-2.125,0,1,0,2,0,3,10,16
+Central Michigan,mac,329,-1.862068966,1,2,0,2,0,9,7,8
+Charleston Southern,big-south,304,-2.034482759,0,1,0,2,1,9,7,9
+Charlotte,cusa,114,-0.25,1,4,1,2,5,4,11,4
+Chattanooga,southern,179,-0.875,0,1,1,4,3,9,11,3
+Chicago State,ind,300,-1.703703704,0,4,0,4,0,7,7,5
+Cincinnati,aac,77,0.4,1,5,2,4,5,2,11,0
+Citadel,southern,331,-1.806451613,0,2,0,4,2,7,7,9
+Clemson,acc,51,0.84375,4,3,3,2,7,2,9,2
+Cleveland State,horizon,171,-0.28125,0,0,0,5,4,5,16,2
+Coastal Carolina,sun-belt,294,-1.857142857,0,1,0,3,3,8,5,8
+Col of Charleston,colonial,50,1.181818182,0,1,2,0,12,2,16,0
+Colgate,patriot,100,0.151515152,0,1,1,0,2,5,22,2
+Colorado,pac-12,70,0.242424242,3,7,4,4,6,3,4,2
+Colorado State,mwc,110,-0.15625,1,11,2,2,5,4,6,1
+Columbia,ivy,341,-2.222222222,0,3,1,2,0,8,4,9
+Connecticut,big-east,7,1.625,7,5,6,1,4,1,8,0
+Coppin State,meac,327,-1.78125,0,3,0,3,2,9,7,8
+Cornell,ivy,126,-0.12,0,2,2,2,2,6,11,0
+Creighton,big-east,13,1.0625,3,8,7,2,5,1,6,0
+CS Bakersfield,big-west,296,-1.677419355,0,0,0,8,2,9,7,5
+CS Fullerton,big-west,122,-0.172413793,0,2,3,1,6,6,8,3
+CS Northridge,big-west,333,-2.366666667,0,1,0,5,2,9,3,10
+Dartmouth,ivy,278,-1.576923077,1,0,0,4,4,8,3,6
+Davidson,atlantic-10,146,-0.419354839,0,4,2,4,6,6,7,2
+Dayton,atlantic-10,75,0.28125,1,1,1,6,9,3,10,1
+Delaware,colonial,226,-0.65625,0,2,2,3,4,7,10,4
+Delaware State,meac,354,-2.357142857,0,4,0,1,0,7,5,11
+Denver,summit,287,-1.366666667,0,2,0,1,0,6,13,8
+DePaul,big-east,164,-0.575757576,1,13,2,6,2,3,5,1
+Detroit Mercy,horizon,212,-1.1875,0,2,0,4,3,8,10,5
+Drake,mvc,53,0.878787879,1,1,3,3,10,3,12,0
+Drexel,colonial,190,-0.741935484,0,0,1,5,4,5,11,5
+Duke,acc,19,1.28125,3,6,7,2,4,0,10,0
+Duquesne,atlantic-10,132,-0.03125,0,2,2,2,7,6,11,2
+East Carolina,aac,196,-0.46875,0,3,2,5,3,7,11,1
+Eastern Illinois,ovc,344,-2.310344828,1,2,0,1,1,2,5,17
+Eastern Kentucky,atlantic-sun,165,-0.3,0,3,1,3,6,3,10,4
+Eastern Michigan,mac,320,-2,0,3,0,4,3,5,4,11
+Eastern Washington,big-sky,129,0.096774194,0,1,1,4,6,3,14,2
+Elon,colonial,337,-2.366666667,0,3,0,1,0,8,6,12
+ETSU,southern,266,-1.733333333,0,0,0,3,3,9,7,8
+Evansville,mvc,350,-2.34375,0,2,0,6,0,10,5,9
+Fairfield,maac,263,-1.466666667,0,2,0,3,2,2,10,11
+Fairleigh Dickinson,northeast,299,-1.15625,0,1,0,0,1,2,16,12
+FGCU,atlantic-sun,181,-0.64516129,1,3,0,0,5,7,10,5
+FIU,cusa,218,-0.9,0,5,2,2,4,6,6,5
+Florida,sec,61,0.40625,2,13,1,2,9,1,4,0
+Florida A&M,swac,359,-2.37037037,0,5,0,0,0,4,5,13
+Florida Atlantic,cusa,15,1.466666667,2,1,3,2,10,0,12,0
+Florida State,acc,222,-1,2,7,0,9,1,5,6,2
+Fordham,atlantic-10,130,0.5625,0,2,2,1,6,3,17,1
+Fresno State,mwc,145,-0.8,0,7,3,4,3,8,4,1
+Furman,southern,88,0.483870968,0,1,1,1,9,3,14,2
+Gardner-Webb,big-south,198,-1.24137931,0,1,0,1,2,8,11,6
+George Mason,atlantic-10,139,-0.090909091,1,2,0,3,9,5,10,3
+George Washington,atlantic-10,211,-0.838709677,0,0,1,4,4,9,10,3
+Georgetown,big-east,242,-1.21875,0,11,1,7,0,5,6,2
+Georgia,sec,152,-0.09375,1,7,3,4,2,5,10,0
+Georgia Southern,sun-belt,207,-0.9,0,0,0,7,4,5,10,4
+Georgia State,sun-belt,291,-2,0,1,0,3,2,10,5,7
+Georgia Tech,acc,180,-0.419354839,0,8,2,6,3,3,8,1
+Gonzaga,wcc,6,1.75,6,4,5,0,8,1,8,0
+Grambling,swac,173,0.103448276,0,2,2,2,0,0,19,4
+Grand Canyon,wac,119,0.066666667,1,2,1,1,7,7,10,1
+Green Bay,horizon,361,-2.875,0,0,0,5,1,10,2,14
+Hampton,colonial,349,-2.161290323,0,1,0,6,0,7,7,10
+Hartford,ind,363,-3.2,0,0,0,3,0,4,2,16
+Harvard,ivy,158,-0.807692308,0,2,2,4,2,3,8,5
+Hawaii,big-west,128,0,0,0,2,5,4,5,15,1
+High Point,big-south,290,-1.517241379,0,0,1,1,0,8,11,8
+Hofstra,colonial,86,0.40625,1,2,3,1,5,4,14,2
+Holy Cross,patriot,336,-2.333333333,0,1,0,2,1,2,7,17
+Houston,aac,1,2.032258065,5,1,8,0,7,1,9,0
+Houston Baptist,southland,357,-2.344827586,0,3,0,0,0,4,7,15
+Howard,meac,217,-0.448275862,0,3,0,0,3,6,14,3
+Idaho,big-sky,311,-2.166666667,0,0,0,2,4,7,4,13
+Idaho State,big-sky,252,-1.8,0,0,0,6,3,6,6,9
+Illinois,big-ten,35,0.9375,2,10,7,2,4,0,7,0
+Illinois State,mvc,281,-1.53125,0,2,0,4,4,6,7,9
+Illinois-Chicago,mvc,285,-1.322580645,0,3,0,6,0,7,11,4
+Incarnate Word,southland,345,-2.035714286,0,1,0,1,1,4,8,13
+Indiana,big-ten,30,1.290322581,5,8,6,2,4,0,6,0
+Indiana State,mvc,95,-0.090909091,0,1,2,4,5,4,14,3
+Iona,maac,62,0.40625,0,1,0,2,7,2,18,2
+Iowa,big-ten,40,0.875,5,7,8,3,1,2,5,1
+Iowa State,big-12,17,1.290322581,10,10,2,2,1,0,6,0
+IPFW,horizon,237,-0.866666667,0,2,1,1,2,7,12,5
+IUPUI,horizon,360,-2.966666667,0,2,0,1,0,8,3,16
+Jackson State,swac,303,-1.09375,0,5,0,2,1,3,13,8
+Jacksonville,atlantic-sun,238,-1.192307692,1,2,0,2,2,8,7,4
+Jacksonville State,atlantic-sun,241,-1.357142857,0,3,0,4,2,5,8,6
+James Madison,sun-belt,97,-0.033333333,0,2,1,2,9,3,9,4
+Kansas,big-12,8,2.46875,16,6,4,0,3,0,3,0
+Kansas State,big-12,23,1.625,9,8,5,1,2,0,7,0
+Kennesaw State,atlantic-sun,113,0.548387097,0,4,2,0,8,2,13,2
+Kent State,mac,66,0.8,0,3,1,1,10,1,13,1
+Kentucky,sec,21,1.193548387,6,7,6,0,3,2,6,1
+La Salle,atlantic-10,224,-0.941176471,0,3,0,3,7,7,8,6
+Lafayette,patriot,271,-1.676470588,0,2,0,5,2,6,9,10
+Lamar,southland,356,-2.607142857,0,1,0,1,0,4,6,16
+Lehigh,patriot,274,-1.035714286,0,0,0,5,1,2,13,7
+Liberty,atlantic-sun,43,0.483870968,0,3,1,2,6,3,16,0
+Lindenwood,ovc,338,-2.137931034,0,3,0,1,0,3,8,14
+Lipscomb,atlantic-sun,148,-0.466666667,0,2,1,2,5,4,11,5
+Little Rock,ovc,322,-2.206896552,0,2,0,2,1,1,7,16
+Long Beach State,big-west,162,-0.516129032,0,4,1,4,5,6,9,2
+Long Island Univ,northeast,362,-3.296296296,0,2,0,3,0,2,1,19
+Longwood,big-south,166,-0.6,0,1,0,1,2,5,16,5
+Louisiana,sun-belt,89,0.633333333,0,2,1,2,10,2,12,1
+Louisiana Tech,cusa,170,-0.766666667,0,6,0,5,2,7,10,0
+Louisiana-Monroe,sun-belt,295,-1.620689655,0,2,1,6,2,7,5,6
+Louisville,acc,316,-1.78125,0,10,1,5,0,9,3,4
+Loyola (IL),atlantic-10,268,-1.35483871,0,3,1,5,3,8,6,5
+Loyola (MD),patriot,321,-1.806451613,0,2,0,2,0,3,11,13
+Loyola Marymount,wcc,107,0.3,2,3,3,5,4,4,9,0
+LSU,sec,151,-0.242424242,1,11,1,6,3,1,9,1
+Maine,america-east,275,-1.25,0,1,0,6,2,5,9,5
+Manhattan,maac,302,-1.620689655,0,3,0,1,2,1,9,13
+Marist,maac,282,-1.709677419,0,1,0,1,1,5,11,12
+Marquette,big-east,12,1.6875,6,5,6,0,6,1,8,0
+Marshall,sun-belt,83,0.387096774,0,0,2,2,8,5,13,1
+Maryland,big-ten,28,1,3,9,6,2,3,0,9,0
+Massachusetts,atlantic-10,202,-0.612903226,0,1,2,4,6,9,7,2
+McNeese State,southland,339,-1.848484848,0,4,0,2,1,4,9,13
+Memphis,aac,33,1.258064516,2,4,8,3,7,1,6,0
+Mercer,southern,228,-1.451612903,0,0,0,3,1,12,11,4
+Merrimack,northeast,306,-1,0,2,0,3,0,4,16,7
+Miami (FL),acc,34,1.548387097,5,4,6,0,7,1,7,1
+Miami (OH),mac,286,-1.689655172,0,1,0,6,1,6,8,7
+Michigan,big-ten,58,0.65625,3,12,5,2,5,0,4,1
+Michigan State,big-ten,31,1.3,6,9,7,1,2,1,4,0
+Mid Tenn,cusa,118,-0.066666667,1,3,3,2,6,5,7,3
+Milwaukee,horizon,210,-0.275862069,0,2,0,1,7,3,11,5
+Minnesota,big-ten,221,-0.677419355,1,10,2,9,1,2,5,1
+Miss Valley St,swac,358,-2.46875,0,4,0,5,0,2,5,16
+Mississippi,sec,125,-0.424242424,1,12,1,6,4,1,6,2
+Mississippi State,sec,46,0.9375,4,7,4,3,5,1,8,0
+Missouri,sec,48,1.419354839,5,8,4,0,6,0,8,0
+Missouri State,mvc,142,-0.35483871,1,3,2,4,4,5,9,3
+Monmouth,colonial,351,-2.03030303,0,2,0,8,0,8,7,8
+Montana,big-sky,167,-0.533333333,0,2,0,4,4,6,12,2
+Montana State,big-sky,104,0.3125,0,2,2,1,6,5,15,1
+Morehead State,ovc,229,-0.5,0,2,0,2,2,1,15,6
+Morgan State,meac,292,-1.222222222,0,3,1,2,1,4,9,7
+Mount St. Mary's,maac,269,-1.53125,0,3,0,2,3,3,9,12
+Murray State,mvc,213,-0.387096774,1,2,1,7,3,4,11,2
+Navy,patriot,174,-0.7,0,2,1,1,2,2,14,8
+NC A&T,colonial,319,-1.448275862,0,3,1,2,1,8,8,6
+NC Central,meac,177,-0.52,0,3,0,0,2,6,12,2
+NC State,acc,45,0.939393939,1,6,7,4,5,0,10,0
+NC-Asheville,big-south,140,0.375,1,2,0,0,4,2,20,3
+NC-Greensboro,southern,112,-0.266666667,0,2,1,1,6,6,11,3
+NC-Wilmington,colonial,144,0.40625,1,5,1,2,5,2,15,1
+Nebraska,big-ten,94,0.375,4,10,3,5,2,0,7,1
+Nevada,mwc,39,1.064516129,4,5,3,3,11,2,3,0
+New Hampshire,america-east,267,-1.071428571,0,0,0,5,3,4,10,6
+New Mexico,mwc,52,0.75,3,5,3,2,10,3,5,1
+New Mexico State,wac,188,-1.285714286,0,2,1,6,2,5,3,2
+New Orleans,southland,340,-1.9,0,2,0,1,1,4,9,13
+Niagara,maac,244,-0.931034483,0,2,0,2,3,1,12,9
+Nicholls State,southland,265,-1.074074074,0,4,0,2,0,3,12,6
+NJIT,america-east,334,-2.448275862,0,0,0,4,0,7,6,12
+Norfolk State,meac,185,-0.259259259,0,4,0,0,1,3,16,3
+North Alabama,atlantic-sun,239,-0.586206897,0,3,1,1,4,7,10,3
+North Carolina,acc,47,0.757575758,1,9,6,4,7,0,6,0
+North Dakota,summit,273,-1.483870968,0,4,0,1,2,7,9,8
+North Dakota St,summit,214,-0.903225806,0,5,0,3,3,2,11,7
+North Florida,atlantic-sun,236,-1,0,4,0,4,4,3,8,6
+North Texas,cusa,36,1.1,1,3,3,1,12,1,8,1
+Northeastern,colonial,312,-1.6,0,2,0,4,1,7,9,7
+Northern Arizona,big-sky,232,-1.515151515,0,4,0,4,5,7,5,8
+Northern Colorado,big-sky,235,-1.193548387,0,4,1,2,0,9,11,4
+Northern Illinois,mac,253,-1.066666667,0,3,2,4,0,7,10,4
+Northern Iowa,mvc,215,-0.967741935,0,2,0,6,3,8,10,2
+Northern Kentucky,horizon,156,-0.1875,0,2,0,3,6,4,14,3
+Northwestern,big-ten,41,1.161290323,7,5,4,5,1,0,9,0
+Notre Dame,acc,186,-0.96875,0,6,2,5,2,8,7,2
+NW State,southland,203,-0.1875,1,3,0,0,2,3,18,5
+Oakland,horizon,270,-1.193548387,0,2,0,5,3,8,9,4
+Ohio,mac,134,-0.193548387,0,3,1,5,5,2,12,3
+Ohio State,big-ten,56,0.272727273,3,12,6,4,0,1,6,1
+Oklahoma,big-12,68,0.6875,6,14,3,3,3,0,3,0
+Oklahoma State,big-12,42,0.9375,6,11,5,2,2,1,5,0
+Old Dominion,sun-belt,153,-0.166666667,0,1,2,3,7,5,9,3
+Omaha,summit,317,-1.741935484,0,6,0,3,0,6,8,8
+Oral Roberts,summit,37,1,0,4,1,0,6,0,19,0
+Oregon,pac-12,44,0.78125,2,8,7,4,5,1,5,0
+Oregon State,pac-12,223,-0.709677419,0,10,2,7,2,2,6,2
+Pacific,wcc,189,-0.741935484,0,2,1,5,7,6,6,4
+Penn State,big-ten,54,0.96875,6,6,4,5,4,1,6,0
+Pennsylvania,ivy,141,-0.071428571,0,5,1,2,7,2,8,3
+Pepperdine,wcc,201,-1.448275862,0,4,0,9,2,7,5,2
+Pittsburgh,acc,67,0.727272727,4,4,3,5,5,1,10,1
+Portland,wcc,163,-0.677419355,0,7,1,6,3,5,8,1
+Portland State,big-sky,249,-1.448275862,0,2,0,3,4,8,6,6
+Prairie View,swac,279,-1.6,0,4,1,0,0,3,10,12
+Presbyterian,big-south,352,-2.966666667,0,1,0,2,0,9,3,15
+Princeton,ivy,117,0.16,0,1,1,2,7,3,9,2
+Providence,big-east,55,0.84375,4,8,3,2,3,1,11,0
+Purdue,big-ten,5,2.129032258,9,4,7,1,5,0,5,0
+Queens,atlantic-sun,204,-0.8,0,1,1,3,3,7,11,4
+Quinnipiac,maac,175,-0.483870968,0,2,1,1,4,0,14,9
+Radford,big-south,184,-0.741935484,0,3,0,0,2,5,15,6
+Rhode Island,atlantic-10,264,-1.709677419,0,1,1,5,2,9,6,7
+Rice,cusa,205,-0.4,1,4,0,5,5,3,9,3
+Richmond,atlantic-10,159,-0.757575758,0,3,1,3,5,10,9,2
+Rider,maac,216,-0.896551724,1,2,0,1,0,4,14,7
+Robert Morris,horizon,247,-1.129032258,0,2,0,1,3,8,11,6
+Rutgers,big-ten,38,0.71875,6,6,4,3,2,4,7,0
+Sacramento State,big-sky,225,-1.266666667,0,1,0,4,1,10,11,3
+Sacred Heart,northeast,326,-1.34375,0,2,0,1,0,2,15,12
+Saint Francis (PA),northeast,335,-1.689655172,0,2,0,2,0,2,11,12
+Saint Joseph's,atlantic-10,200,-0.696969697,0,2,0,6,4,7,12,2
+Saint Louis,atlantic-10,96,0.516129032,0,6,4,2,8,2,8,1
+Saint Mary's (CA),wcc,10,1.34375,2,3,7,2,11,2,5,0
+Saint Peter's,maac,301,-1.366666667,0,2,0,2,0,4,13,9
+Sam Houston State,wac,59,0.888888889,1,3,1,1,10,1,9,1
+Samford,southern,137,-0.107142857,0,1,1,3,4,4,13,2
+San Diego,wcc,231,-1.310344828,0,5,2,2,2,8,5,5
+San Diego State,mwc,16,1.733333333,4,5,5,1,13,0,2,0
+San Francisco,wcc,109,0.121212121,0,6,4,3,6,3,9,2
+San Jose State,mwc,92,0.677419355,3,7,3,2,7,3,6,0
+Santa Clara,wcc,84,0.806451613,1,5,3,1,11,2,7,1
+SC State,meac,347,-2.566666667,0,2,0,3,2,9,2,12
+SC Upstate,big-south,255,-0.896551724,0,2,0,1,4,8,10,4
+SE Louisiana,southland,256,-0.862068966,0,2,0,2,2,4,13,6
+SE Missouri St,ovc,243,-0.96969697,0,3,0,0,2,4,15,9
+Seattle,wac,143,-0.066666667,1,2,1,3,5,6,11,1
+Seton Hall,big-east,78,0.35483871,4,9,2,4,3,1,7,1
+Siena,maac,208,-0.96875,0,1,2,0,1,4,14,10
+SIU Edwardsville,ovc,220,-0.966666667,0,1,1,1,2,2,13,10
+SMU,aac,209,-0.875,1,7,1,8,2,6,6,1
+South Alabama,sun-belt,106,-0.363636364,0,5,2,3,5,5,10,3
+South Carolina,sec,233,-0.65625,1,9,2,4,2,8,6,0
+South Dakota,summit,297,-1.551724138,0,2,1,3,2,5,7,9
+South Dakota St,summit,154,-0.225806452,1,4,0,3,2,4,15,2
+South Florida,aac,160,-0.71875,1,3,1,5,4,7,8,3
+Southern,swac,276,-1.233333333,0,4,0,2,0,2,13,9
+Southern Illinois,mvc,121,0.34375,1,2,2,4,6,2,13,2
+Southern Indiana,ovc,258,-1.413793103,0,1,0,0,3,4,10,11
+Southern Miss,sun-belt,87,0.551724138,1,0,1,4,6,3,14,0
+Southern Utah,wac,105,0.178571429,0,5,2,0,7,6,8,0
+St Thomas,summit,195,-0.580645161,0,3,0,3,3,3,14,5
+St. Bonaventure,atlantic-10,199,-0.96875,1,0,1,4,6,8,6,6
+St. Francis (NY),northeast,353,-1.571428571,0,1,0,1,0,3,12,11
+St. John's (NY),big-east,98,0.303030303,1,11,1,3,7,1,9,0
+Stanford,pac-12,99,-0.181818182,1,11,3,5,2,2,8,1
+Stephen F. Austin,wac,138,-0.379310345,0,2,0,4,7,4,9,3
+Stetson,atlantic-sun,157,-0.357142857,0,4,0,1,6,7,9,1
+Stonehill,northeast,314,-1.366666667,0,3,0,2,0,1,13,11
+Stony Brook,colonial,328,-1.741935484,0,4,0,2,0,9,9,7
+Syracuse,acc,127,-0.03125,0,7,1,5,8,1,8,2
+Tarleton St,wac,161,-0.551724138,0,4,1,5,6,5,6,2
+TCU,big-12,27,1.28125,8,10,5,0,0,0,8,1
+Temple,aac,120,-0.096774194,3,2,3,5,4,6,6,2
+Tenn State,ovc,280,-1.25,0,0,0,2,1,2,13,10
+Tenn Tech,ovc,272,-1.433333333,0,1,0,2,0,5,13,9
+Tennessee,sec,3,1.375,7,6,3,3,6,0,7,0
+Tenn-Martin,ovc,251,-1.068965517,0,1,0,2,0,3,15,8
+Texas,big-12,9,1.838709677,11,8,4,0,1,0,7,0
+Texas A&M,sec,22,1.290322581,6,5,4,1,6,0,7,2
+Texas A&M-CC,southland,176,-0.344827586,0,3,0,0,1,1,18,6
+Texas Southern,swac,309,-1.6,0,4,1,3,0,2,9,11
+Texas State,sun-belt,192,-0.90625,0,1,3,5,2,8,9,4
+Texas Tech,big-12,64,0.4375,5,13,0,3,2,0,9,0
+Texas-Arlington,wac,250,-1.379310345,0,3,2,4,4,11,2,3
+Toledo,mac,79,0.709677419,0,1,3,1,7,3,15,1
+Towson,colonial,131,-0.121212121,0,3,1,2,5,3,15,4
+Troy,sun-belt,136,-0.266666667,0,2,0,5,6,5,11,1
+Tulane,aac,102,0.379310345,1,3,4,1,5,5,9,1
+Tulsa,aac,323,-1.9,0,4,0,8,1,9,4,4
+TXAM-Commerce,southland,305,-1.65625,0,1,1,0,3,7,8,12
+UAB,cusa,57,0.677419355,1,3,1,3,9,1,12,1
+UC San Diego,big-west,277,-1.607142857,0,2,1,3,2,11,5,4
+UC-Davis,big-west,147,-0.566666667,0,1,0,6,2,6,14,1
+UCF,aac,71,0.193548387,1,4,4,4,4,5,9,0
+UC-Irvine,big-west,93,0.290322581,1,1,2,3,7,5,11,1
+UCLA,pac-12,4,2.125,7,4,9,0,5,0,7,0
+UC-Riverside,big-west,135,0.21875,0,3,3,2,7,4,11,2
+UC-Santa Barbara,big-west,103,0.533333333,0,0,3,2,7,4,13,1
+UMass-Lowell,america-east,115,0.193548387,0,1,0,1,5,0,19,5
+UMBC,america-east,240,-0.774193548,0,1,0,4,1,3,16,6
+UMES,meac,219,-0.576923077,0,3,1,1,1,5,12,3
+UMKC,summit,308,-1.533333333,0,4,2,1,1,5,7,10
+UNLV,mwc,91,0.483870968,2,7,4,1,7,5,5,0
+USC,pac-12,49,1.0625,3,6,7,2,6,1,6,1
+Utah,pac-12,80,0.3125,2,9,3,5,3,1,9,0
+Utah State,mwc,18,1.419354839,1,4,9,1,13,0,1,2
+Utah Tech,wac,155,-1.033333333,0,4,0,5,5,7,6,3
+Utah Valley,wac,69,0.827586207,1,2,3,2,9,2,9,1
+UTEP,cusa,193,-0.866666667,0,5,1,4,2,7,9,2
+UTRGV,wac,260,-1.107142857,0,3,1,3,1,8,9,3
+UTSA,cusa,288,-1.566666667,0,5,0,5,4,4,4,8
+Valparaiso,mvc,289,-1.483870968,0,2,1,6,0,8,9,5
+Vanderbilt,sec,82,0.78125,4,9,5,1,5,2,5,1
+VCU,atlantic-10,63,0.84375,1,1,2,4,12,0,10,2
+Vermont,america-east,111,0.161290323,0,3,1,3,4,3,16,1
+Villanova,big-east,74,0.363636364,2,11,3,3,6,2,6,0
+Virginia,acc,29,1.5,5,4,5,1,5,1,9,0
+Virginia Tech,acc,76,0.424242424,3,6,4,5,4,2,8,1
+VMI,southern,355,-2.689655172,0,0,0,3,0,12,4,10
+Wagner,northeast,310,-1.230769231,0,0,1,2,0,1,12,10
+Wake Forest,acc,90,0.363636364,1,9,4,2,5,2,9,1
+Washington,pac-12,123,0.15625,2,8,3,6,4,1,7,1
+Washington State,pac-12,73,0.303030303,1,11,5,3,4,1,7,1
+Weber State,big-sky,187,-0.612903226,1,0,0,5,4,8,11,2
+West Virginia,big-12,24,1.060606061,6,13,6,1,1,0,6,0
+Western Carolina,southern,230,-0.866666667,0,1,0,3,3,7,12,4
+Western Illinois,summit,245,-1.037037037,0,2,0,1,1,6,12,5
+Western Kentucky,cusa,178,-0.483870968,1,4,0,4,5,6,9,2
+Western Michigan,mac,324,-2.25,0,3,0,5,1,4,4,11
+Wichita State,aac,108,-0.096774194,0,5,2,4,6,3,9,2
+William & Mary,colonial,318,-1.451612903,0,3,0,3,3,6,8,8
+Winthrop,big-south,254,-1.1,0,2,0,3,4,6,9,6
+Wisconsin,big-ten,81,0.741935484,6,7,4,6,2,1,5,0
+Wofford,southern,227,-0.9,1,1,0,3,4,7,9,5
+Wright State,horizon,194,-0.903225806,0,0,0,2,4,8,12,5
+Wyoming,mwc,172,-1,1,7,1,8,2,6,4,1
+Xavier,big-east,25,1.46875,7,5,5,2,4,1,8,0
+Yale,ivy,65,0.52,0,2,2,2,8,1,8,2
+Youngstown State,horizon,124,-0.096774194,0,0,0,0,4,7,18,2
